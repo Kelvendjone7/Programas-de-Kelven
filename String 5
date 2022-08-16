@@ -1,0 +1,7 @@
+mo = "Corinthians"
+ma = "gaviao"
+
+if mo == ma:
+    print("Verdade")
+elif mo != ma:
+    print("Falso")
