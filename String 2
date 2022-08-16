@@ -1,0 +1,3 @@
+nome = "Corinthians"
+
+print(nome[0:4])
