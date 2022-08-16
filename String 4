@@ -1,0 +1,12 @@
+sex = str(input("Digite 'f' para sexo feminino ou 'm' para sexo masculino: "))
+nome = str(input("Digite seu nome: "))
+idade = int(input("Digite sua idade: "))
+
+if sex == 'f':
+    print("Aceita")
+    
+elif sex <= 25:
+    print("Aceita")
+    
+else:
+    print("Não aceita")
